@@ -1,6 +1,8 @@
 ### Hi there 👋
+I'm Michel Murta
 
-Sou um estudante de desenvolvimento e estou colocando a mão na massa para aprender mais a cada dia
+👩‍🎓 Graduated in Computer Science.
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
