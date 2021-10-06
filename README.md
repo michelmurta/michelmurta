@@ -14,7 +14,7 @@ object **MICHEL** {
  val acknowledgements = "FRONT-END"
  
  
- val languages = listOf(Por enquanto "JavaScript") 
+ val languages = listOf("JavaScript") 
 }
 ```
 
